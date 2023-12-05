@@ -28,7 +28,7 @@ ChatNLP is an intuitive chatbot application that offers a seamless conversationa
 
 ## Contact
 
-For inquiries or support, please [contact us](https://hortsens.co/contact){:target="_blank"}. The support of developers like you is highly admired and contributes to making ChatNLP better for everyone, for free.
+For inquiries or support, please [contact us](https://hortsens.co/contact). The support of developers like you is highly admired and contributes to making ChatNLP better for everyone, for free.
 
 ## Copyright Notice
 
