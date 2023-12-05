@@ -19,7 +19,7 @@ ChatNLP is an intuitive chatbot application that offers a seamless conversationa
    - Download and install Flutter by following the instructions in the [official Flutter documentation](https://flutter.dev/docs/get-started/install).
 
 2. **Clone the Repository:**
-   - Clone the ChatNLP repository to your local machine using the following command (replace `your-username` with your GitHub username):
+   - Clone the ChatNLP repository to your local machine using the following command:
      ```bash
      git clone https://github.com/HortSens-Technologies/ChatNLP.git
      ```
