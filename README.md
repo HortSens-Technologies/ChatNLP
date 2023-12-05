@@ -28,7 +28,7 @@ ChatNLP is an intuitive chatbot application that offers a seamless conversationa
 
 ## Contact
 
-For inquiries or support, please contact us via [hortsens.co/contact](https://hortsens.co/contact).
+For inquiries or support, please [contact us](https://hortsens.co/contact){:target="_blank"}. The support of developers like you is highly admired and contributes to making ChatNLP better for everyone, for free.
 
 ## Copyright Notice
 
@@ -37,4 +37,5 @@ ChatNLP is provided for personal use only. Commercial use is strictly prohibited
 ## Future Development
 
 The development team is committed to continuous improvement. Future updates may include more advanced AI models, expanded language support, and additional features based on user feedback.
+
 
