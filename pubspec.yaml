@@ -1,0 +1,26 @@
+name: chanlp
+description: An app that uses a large language model to chat with users, generate text, translate languages, and open productive apps.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.6.3
+  http: ^0.13.3
+  math_expressions: ^2.2.1
+  url_launcher: ^6.0.0
+  speech_to_text: ^4.0.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/icons/web-icon.png
+   - web/web-icon.png
