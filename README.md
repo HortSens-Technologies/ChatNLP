@@ -13,18 +13,37 @@ ChatNLP is an intuitive chatbot application that offers a seamless conversationa
 
 ## Usage
 
-1. **Installation:**
-   - Download and install ChatNLP from the app store (both Android and iOS supported).
+**Note: ChatNLP is provided as code only and cannot be directly downloaded as an app. Follow the instructions below to set up ChatNLP:**
 
-2. **Conversations:**
-   - Engage in natural, context-aware conversations with the chatbot.
+1. **Setup Flutter:**
+   - Download and install Flutter by following the instructions in the [official Flutter documentation](https://flutter.dev/docs/get-started/install).
 
-3. **Functionalities:**
-   - Leverage Wolfram Alpha for computational queries.
-   - Explore advanced natural language processing with Hugging Face.
-   - Enjoy hands-free interaction with voice commands and responses.
-   - Access Wikipedia for a wide range of informative content.
-   - Open external applications using integrated app launch capabilities.
+2. **Clone the Repository:**
+   - Clone the ChatNLP repository to your local machine:
+     ```bash
+     git clone https://github.com/your-username/ChatNLP.git
+     ```
+
+3. **Install Dependencies:**
+   - Navigate to the project directory and run the following command to install dependencies:
+     ```bash
+     flutter pub get
+     ```
+
+4. **Run ChatNLP:**
+   - Use the following command to run ChatNLP on an emulator or connected device:
+     ```bash
+     flutter run
+     ```
+
+## Conversations and Functionalities
+
+- Engage in natural, context-aware conversations with the chatbot.
+- Leverage Wolfram Alpha for computational queries.
+- Explore advanced natural language processing with Hugging Face.
+- Enjoy hands-free interaction with voice commands and responses.
+- Access Wikipedia for a wide range of informative content.
+- Open external applications using integrated app launch capabilities.
 
 ## Contact
 
@@ -37,5 +56,4 @@ ChatNLP is provided for personal use only. Commercial use is strictly prohibited
 ## Future Development
 
 The development team is committed to continuous improvement. Future updates may include more advanced AI models, expanded language support, and additional features based on user feedback.
-
 
