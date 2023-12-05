@@ -1,13 +1,28 @@
-ChatNLP Personal Use License (CPL)
+ChatNLP Open Source License (COSL)
 
 Copyright (c) 2023 HortSens Technologies
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal purposes only. Personal use includes, but is not limited to, individual learning, experimentation, and non-commercial projects.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software for personal purposes only.
 
 Commercial use of the Software is expressly prohibited. Any use of the Software, or software derived from it, for commercial purposes is not allowed without the explicit written permission of HortSens Technologies.
 
 Modification, distribution, sublicensing, and/or sale of copies of the Software or any part of it are not permitted.
 
+Contributions in the form of code, bug reports, feature requests, and other contributions are welcome and encouraged. By contributing, you agree to the terms of the ChatNLP Contributor License Agreement (CLA).
+
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For inquiries or commercial use permissions, please contact HortSens Technologies at hortsens.co/contact
+For inquiries or commercial use permissions, please contact HortSens Technologies at chatnlp-support@hortsens.co.
+
+---
+
+ChatNLP Contributor License Agreement (CLA)
+
+By contributing to the ChatNLP project, you agree to the following terms:
+
+1. You grant HortSens Technologies a non-exclusive, perpetual, irrevocable, worldwide, royalty-free license to reproduce, prepare derivative works, publicly display, distribute, and sublicense your contributions.
+
+2. You assert that you have the legal right to grant the license specified in this agreement.
+
+3. Your contributions may be used and distributed under the terms of the ChatNLP Open Source License (COSL).
+
