@@ -302,10 +302,10 @@ class _ChatPageState extends State<ChatPage>
       }
     } else {
       // Use Microsoft's DialoGPT API for general chatbot responses
-      const apiKey = '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';
+      const apiKey = 'APIKEY';
       var gptResponse = await http.post(
         Uri.parse(
-            'https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium'),
+            'reference to API'),
         headers: {
           'Content-Type': 'application/json',
           'Authorization': 'Bearer $apiKey'
