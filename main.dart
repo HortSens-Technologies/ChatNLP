@@ -264,7 +264,7 @@ class _ChatPageState extends State<ChatPage>
       if (equation.isNotEmpty) {
         // Query using Wolfram Alpha API
         String wolframUrl =
-            'https://api.wolframalpha.com/v2/query?input=${Uri.encodeComponent(equation)}&appid=KH8L8U-L6YQEY82WH&output=json';
+            'https://api.wolframalpha.com/v2/query?input=${Uri.encodeComponent(equation)}&appid=APIKEY&output=json';
         var wolframResponse = await http.get(Uri.parse(wolframUrl));
 
         if (wolframResponse.statusCode == 200) {
